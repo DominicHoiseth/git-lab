@@ -1,15 +1,24 @@
-Answer 1:
+Answer 1 {
+
 git version 2.17.1
 
-Answer 2:
+}
+
+
+Answer 2 {
 
 user.name=DominicHoiseth
 user.email=dh634921@ohio.edu
 
-Answer 3:
+}
+
+Answer 3 {
 
 When git --help is ran the console displays a reference on how to use the git command.
-Answer 4:
+
+}
+
+Answer 4 {
 
 On branch master
 
@@ -21,8 +30,12 @@ Untracked files:
         answers.md
 
         README.md
+}
 
-Answer 5:
+
+
+Answer 5 {
+
 On branch master
 
 no commits yet
@@ -37,7 +50,9 @@ Untracked files:
 
         answers.md
 
-Answer 6:
+}
+
+Answer 6 {
 
 On branch master 
 
@@ -49,23 +64,54 @@ Changes to be comitted
         new file: README.md
         new file: answers.md
 
-Answer 7:
+}
+
+Answer 7 {
 
 On branch master
 Changes not staged for commit
     (use "git add <file>..." to update what will be committed)
     (use "git checkout -- <file>..." to discard changes in working directory) 
 
-Answer 8:
+}
+
+Answer 8 {
 
 commit 871298dcd0a91f7c49e7a8276e1a1e4bf8bec469 (HEAD -> master)
 Author: DominicHoiseth <dh634921@ohio.edu>
 Date:   Fri Sep 9 16:50:18 2022 -0400
 
-Answer 9:
+}
+
+Answer 9 {
 
 On branch main
 Your branch is up to date with 'origin/main'.
 
 nothing to commit, working tree clean
 
+}
+
+Answer 10 {
+
+No the changes made online werent reflected in my local copy.
+
+}
+
+Answer 11 {
+
+Github rejects the push on the terms main -> main (fetch first)
+
+}
+
+Answer 12 {
+
+The changes I made were reflected in my local file.
+
+}
+
+Answer 13 {
+
+    .  ..  .git  .gitignore  README.md
+    
+}
