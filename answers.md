@@ -39,3 +39,25 @@ Untracked files:
 
 Answer 6:
 
+On branch master 
+
+No commits yet
+
+Changes to be comitted
+    (use "git rm --chached <file>..." to unstage)
+
+        new file: README.md
+        new file: answers.md
+
+Answer 7:
+
+On branch master
+Changes not staged for commit
+    (use "git add <file>..." to update what will be committed)
+    (use "git checkout -- <file>..." to discard changes in working directory) 
+
+Answer 8:
+
+commit 871298dcd0a91f7c49e7a8276e1a1e4bf8bec469 (HEAD -> master)
+Author: DominicHoiseth <dh634921@ohio.edu>
+Date:   Fri Sep 9 16:50:18 2022 -0400
